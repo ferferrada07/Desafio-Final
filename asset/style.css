@@ -1,0 +1,41 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Hero section */
+#hero-section{
+    background-image:linear-gradient(0deg, rgba(5, 0, 0, 0.6),rgba(1, 0, 3, 0.6) ), url(..asset/img/fondo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* Hero section end */
+
+/* About me */
+#about-me span{
+    color: rgb(235, 236, 244)!important;
+}
+
+#about-me .width-text{
+    width: 60%;
+}
+
+#about-me img{
+    width: 400px;
+}
+
+#about-me .icons-skill{
+    width: 100px;
+}
+/* About me end*/
+
+/* Mis proyectos */
+#proyectos span{
+    color: rgb(20, 0, 242)!important;
+}
+
+.misproyectos{
+    background-image:linear-gradient(0deg, rgba(251, 6, 247, 0.5),rgba(7, 156, 237, 0.5) ), url(../imgs/misproyectobg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
